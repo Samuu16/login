@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FMS34'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29C9344316934982BC348ECDAF4FAEB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E6D12E9523144758C45F9C3EF258C18 }}
